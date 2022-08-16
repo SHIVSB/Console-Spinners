@@ -1,0 +1,17 @@
+{
+  "name": "console_loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon loading_3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "log-update": "^5.0.1",
+    "nodemon": "^2.0.19"
+  }
+}
